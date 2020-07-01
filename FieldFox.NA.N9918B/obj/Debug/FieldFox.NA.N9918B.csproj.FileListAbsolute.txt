@@ -1,0 +1,2 @@
+C:\Users\ae1\source\repos\FieldFox.NA.N9918B\FieldFox.NA.N9918B\obj\Debug\FieldFox.NA.N9918B.csprojAssemblyReference.cache
+C:\Users\ae1\source\repos\FieldFox.NA.N9918B\FieldFox.NA.N9918B\obj\Debug\FieldFox.NA.N9918B.csproj.CoreCompileInputs.cache

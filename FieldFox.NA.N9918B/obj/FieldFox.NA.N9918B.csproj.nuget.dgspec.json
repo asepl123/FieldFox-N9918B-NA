@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ae1\\source\\repos\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ae1\\source\\repos\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ae1\\source\\repos\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B.csproj",
+        "projectName": "FieldFox.NA.N9918B",
+        "projectPath": "C:\\Users\\ae1\\source\\repos\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B.csproj",
+        "packagesPath": "C:\\Users\\ae1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ae1\\source\\repos\\FieldFox.NA.N9918B\\FieldFox.NA.N9918B\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ae1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "OpenTAP": {
+              "target": "Package",
+              "version": "[9.7.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
